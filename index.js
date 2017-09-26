@@ -39,6 +39,7 @@ const styles = StyleSheet.create({
   },
   fab_box: {
     position: 'absolute',
+    marginBottom: 50,
     bottom: 20,
     right: 20,
     height: 56,
